@@ -41,6 +41,7 @@ Un circuito en paralelo es un circuito que tiene dos o más caminos independient
 
 4. RESOLUCION DE EJERCICIOS
 
+
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B. 
  
  [![imagen-2022-11-27-122100849.png](https://i.postimg.cc/hPLxfLhx/imagen-2022-11-27-122100849.png)](https://postimg.cc/QHMVzWQx)
