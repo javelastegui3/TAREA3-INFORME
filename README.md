@@ -1,5 +1,41 @@
 # TAREA3-INFORME
 
+1. TEMA
+
+Informe de Tarea 3: Circuito en Serie y Circuito en Paralelo.
+
+2. OBJETIVO
+
+2.1. Objetivo General:
+
+Definir los circuitos en serie y los circuitos en paralelo, para así poder saber su funcionamiento y diferenciarlos en un diagrama.
+
+2.2. Objetivos Específicos:
+
+Entender qué componentes conforman el circuito en serie.
+
+Entender qué componentes conforman el circuito en paralelo.
+
+Comprender cómo funcionan el voltaje, resistencia y corriente en ambos circuitos.
+
+Diferenciar su utilidad y saber en circuitos utilizarlos.
+
+Obvservar cómo las leyes de Kirchhoff y Ohm son apicables también a las variables de circuitos.
+
+3. MARCO TEÓRICO
+
+- Capítulo 5: Circuito en Serie
+- Capítulo 6: Circuito en paralelo
+
+[![imagen-2022-11-27-132454581.png](https://i.postimg.cc/gc5gPFTJ/imagen-2022-11-27-132454581.png)](https://postimg.cc/DmrrqDFk)
+
+Se llama circuito en serie a un tipo de circuito eléctrico provisto de un único camino para la coriente, que debe alcanzar a todas las terminales conectadas en la red de manera sucesiva, es decir uno detrás de otro, conectando sus puntos de salida con el de entrada del siguiente.
+
+[![image.png](https://i.postimg.cc/2SpmytVj/image.png)](https://postimg.cc/LnVG0NtG)
+
+[![image.png](https://i.postimg.cc/xdZSrFDS/image.png)](https://postimg.cc/R3wYKdZP)
+
+
 Resistores en serie 
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B. 
  
