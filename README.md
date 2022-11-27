@@ -15,7 +15,7 @@ Resistores en serie
 
 *9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático. SECCIÓN 5–3 Resistencia total en serie 
 
-[image.png](https://postimg.cc/mPtjTksT)
+[![image.png](https://i.postimg.cc/Z5LMFvsv/image.png)](https://postimg.cc/mPtjTksT)
 
 11. Encuentre la resistencia total de los siguientes grupos de resistores en serie: 
 
@@ -35,31 +35,16 @@ Resistores en serie
 
 19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74? 
  
-I=V_S/R_T 
-(a) 
-I=5.5V/(1 kΩ+5.6 kΩ+2.2 kΩ)  =  0.625mA =  625μA
-(b) 
-I=16V/(1MΩ+0.56MΩ+2.2MΩ)  =  7.26μA
+[![image.png](https://i.postimg.cc/R0M2jLJT/image.png)](https://postimg.cc/rDPh4WJd)
 
 21. Se conectan tres resistores de 470 kΩ en serie con una fuente de 48 V. 
-R_T=n(R)  =  3(470kΩ) = 1.41MΩ
-(a) ¿Cuál es la corriente en el circuito? 
-I=V_S/R_T 
-I=48V/1.41MΩ  = 34.04 μA
 
-(b) ¿Cuál es el voltaje a través de cada resistor?
-V= I*R
-V= 34.04 μA*470kΩ =  15998.8mV =  16V 
-(c) ¿Cuál es el valor nominal de potencia de los resistores? 
-P_T=〖V_S〗^2/R_T 
-P_T=16^2/( 470 kΩ)  =  0.5447mW =  544.7W
+[![image.png](https://i.postimg.cc/wvSz8spT/image.png)](https://postimg.cc/7GMdShhp)
+
 23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75? 
  
-R=V/I
-R_1=(21.7 V)/(65.8 mA)  =  0.3297 kΩ =  329.7Ω
-R_2=(14.5 V)/(65.8 mA)  =  0.2203 kΩ =  220.3Ω
-R_3=(6.58 V)/(65.8 mA)  =  0.1 kΩ =  100Ω
-R_3=(30.9 V)/(65.8 mA)  =  0.4696 kΩ =  469.6Ω
+[![image.png](https://i.postimg.cc/vZPpw67F/image.png)](https://postimg.cc/yDZfFxrv)
+
 25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A. 
   
 (a) ¿Cuál es la resistencia de R4? 
@@ -80,74 +65,38 @@ R=(9.398 mV)/(7.84 mA)  =
 (c) ¿Se fundirá un fusible de 1 ⁄4 A en cualquier posición del interruptor? 
 
 27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total? 
-V_T=V_1+V_2
-V_T=9V+5V =  14V
+
+[![image.png](https://i.postimg.cc/SN1ryLPr/image.png)](https://postimg.cc/vc99hnbg)
+
 29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.  
  
-V_T=V_1+V_2+⋯+V_n
-(a)
-V_T=10V+8V+5V =  23V
-(b)
-V_T=50V+10V-25V =  35V
-(c)
-V_T=8V-8V =  0V
+[![image.png](https://i.postimg.cc/zvsGjcB7/image.png)](https://postimg.cc/T5cx2Qn5)
 
-31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor? 
-V_T=V_1+V_2+V_3+V_4+V_5
-20V=1.5 V+ 5.5 V+ 3 V+6 V+V_5
-V_5=20V-16V =  4V
+31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál 
+
+[![image.png](https://i.postimg.cc/rmbVVPST/image.png)](https://postimg.cc/N96qbbJC)
+
 33. En el circuito de la figura 5-81, determine la resistencia de R4. 
  
-I=V/R
-I=11.2V/56Ω
-I=0.2A
-R_4=V_4/I
-R_4=4.4V/0.2  =  22Ω
+[![image.png](https://i.postimg.cc/ZYpnYJDD/image.png)](https://postimg.cc/yW6svCKF)
+
 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A) 3.35mA; B) 3.73mA; C) 4.50mA; D) 6.00mA. 
  
-A) 3.35mA
-V=I*R
-V=3.35mA*1.8kΩ =  6.03V
-V=3.35mA*1kΩ =  3.35V
-V=3.35mA*820Ω =  2.747V
-V=3.35mA*560Ω =  1.876V
-V_T=V_1+V_2+V_3+V_4+V_5
-V_5=18V-14.0V =4V
-B) 3.73mA
-V=3.73mA*1.8kΩ =  6.71V
-V=3.73mA*1kΩ =  3.73V
-V=3.73mA*820Ω =  3.05V
-V_T=V_1+V_2+V_3+V_5
-V_5=18V-13.49V =4.51V
-C) 4.50mA
-V=4.50mA*1.8kΩ =  8.1V
-V=4.50mA*1kΩ =  4.5V
-V_T=V_1+V_2+V_5
-V_5=18V-12.6V =5.4V
-D) 6.00mA.
-V=6mA*1.8kΩ =  10.8V
-V_T=V_1+V_5
-V_5=18V-10.8V =7.2V
+[![image.png](https://i.postimg.cc/DZqhhwyr/image.png)](https://postimg.cc/DJyHdFG0)
+
+[![image.png](https://i.postimg.cc/NGpVHHVy/image.png)](https://postimg.cc/py5qNpPx)
+
+[![image.png](https://i.postimg.cc/rpNgL62d/image.png)](https://postimg.cc/NyLR1zMY)
+
+[![image.png](https://i.postimg.cc/DyGDmy9H/image.png)](https://postimg.cc/56xpR1NS)
+
 *37. La resistencia total de un circuito es de 560Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27Ω que forma parte de la resistencia total en serie? 
-560Ω =  100%
-27Ω =  x
-x=(27Ω*100)/560Ω  =  4.82%
 
-
+[![image.png](https://i.postimg.cc/x8zskt4M/image.png)](https://postimg.cc/y37htXB8)
 
 39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a). 
  
-V_x=(R_x/R_T ) V_S
-V_1=((5.6kΩ )/18.9kΩ)15V =  4.44V
-V_2=((10kΩ )/18.9kΩ)15V =  7.94V
-V_3=((3.3kΩ )/18.9kΩ)15V =  2.62V
-SALIDA A= V_S-V_(salida A)
-SALIDA A=15V-0V =  15V
-SALIDA B= V_S-(V_(salida A)+V_(salida B))
-SALIDA B= 15V-(0V+4.44V) =  10.56V
-SALIDA C= V_S-(V_(salida A)+V_(salida B)+V_(salida C))
-SALIDA C= 15V-(0V+4.44V+7.94V) =  2.62V
-
+[![image.png](https://i.postimg.cc/pL2ZxWRD/image.png)](https://postimg.cc/HVh59CJx)
 
 *41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica
  
