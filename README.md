@@ -113,3 +113,201 @@ Mediciones de voltaje
 *57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
  
 *59. Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kÆ entre las puntas 1 y 2. Asimismo, 13.6 kÆ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo 
+
+4.2. Ejercicios del Capítulo 6
+
+(1) Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+
+1.png
+
+2.png
+
+(3) Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+3.png
+
+100 V
+
+(7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+Posicion A
+
+V1=15v, v2=0v,v3=15v,v4=0v
+
+POSICION B
+
+V1=15V,V2=0V,V3=15V,V4=0V
+
+POSICION C
+
+V1=15V,V2=15V,V3=0V,V4=0V
+
+(9) Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA, 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+1.35 A
+
+(11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+4.png
+
+R2 = 22 Ω, R3 = 100 Ω, R4 = 33 Ω
+
+(13) La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+11.4 mA
+
+(15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+A)359 Ω,
+
+B)25.6 Ω,
+
+C) 819 Ω,
+
+D)997 Ω,
+
+(17) ¿Cuál es la resistencia total de doce resistores de 6.8 k Ω, dispuestos en paralelo agrupamientos?
+
+567 Ω,
+
+(19) Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+24.6 Ω,
+
+(21) ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+(a) SW1 y SW2 abiertos (b) SW1 cerrado, SW2 abierto
+
+(c) SW1 abierto, SW2 cerrado (d) SW1 y SW2 cerrados
+
+5.png
+
+A)510 k Ω,
+
+B) 245 k Ω,
+
+C) 510 k Ω,
+
+D)193 k Ω,
+
+(23) Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+10 A
+
+(25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 k Ω,, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+50 mA; Cuando un foco se funde, los demás focos permanecen encendidos.
+
+(27) ¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+6.png
+
+7.png
+
+53.7 Æ
+
+(29) Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+I2 = 167 mA, I3 = 83.3 mA, IT = 300 mA,
+
+R1 = 2 k Ω,, R2 = 600 Æ
+
+8.png
+
+(31) Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+9.png
+
+Posición A: 2.25 mA
+
+Posición B: 4.75 mA
+
+Posición C: 7 mA
+
+(33) Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+10.png
+
+A) I1 = 6.88 mA, I2 = 3.12 Ma
+
+B) I1 = 5.25 mA, I2 = 2.39 mA, I3 = 1.59 mA, I4 = 772 mA
+
+(35) Determine todos los valores de resistor en la figura 6-83. RT _ 773 Æ.
+
+11.png
+
+R1 = 3.3 k Ω,, R2 = 1.8 k Ω,, R3 = 5.6 k Ω,, R4 = 3.9 k Ω,
+
+(37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 k Ω, de escala completa entre la derivación para realizar la medición.
+
+(a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+
+1 m Ω,
+
+(b) ¿Cuánta corriente circula por el medidor?
+
+5 mA
+
+(39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+A)68.8 Mw
+
+b) 52.5 mW
+
+(41) Encuentre los valores de las cantidades no especificadas en la figura 6-84.
+
+P1 = 1.25 W, I2 = 75 mA, I1 = 125 mA, VS = 10 V, R1 = 80 Æ, R2 = 133 Æ
+
+(43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+682 mA, 3.41 A
+
+(45) ¿Qué está mal con el circuito de la figura 6-86?
+
+12.png
+
+El resistor de 8.2 k Ω, está abierto.
+
+(47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. Conectar el ohmmetro entre las siguientes clavijas:
+
+Clavijas 1-2
+
+Lecturas:
+
+R= 1.0 kÆ73.3 k Ω, = 767 Æ
+
+R1 abierto: R = 3.3 K Ω,
+
+R2 abierto: R = 1.0 k Ω,
+
+Clavijas 3-4
+
+Lecturas:
+
+R = 270 Æ7390 Æ = 159.5 Ω,
+
+R3 abierto: R = 390 Ω,
+
+R4 abierto: R = 270 Ω,
+
+Clavijas 5-6
+
+Lectura correcta:
+
+R = 1.0 MÆ71.8 MÆ7680 kÆ7510 k Ω, = 201 k Ω,
+
+R5 abierto: R = 1.8 MÆ7680 kÆ7510 k Ω, = 251 k Ω,
+
+R6 abierto: R = 1.0 MÆ7680 kÆ7510 k Ω, = 226 k Ω,
+
+R7 abierto: R = 1.0 MÆ71.8 MÆ7510 k Ω, = 284 k Ω,
+
+R8 abierto: R = 1.0 MÆ71.8 MÆ7680 k Ω, = 330 k Ω,
+
+(49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+(a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+13.png
+
+14.png
