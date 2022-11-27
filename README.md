@@ -33,10 +33,14 @@ Se llama circuito en serie a un tipo de circuito eléctrico provisto de un únic
 
 [![image.png](https://i.postimg.cc/2SpmytVj/image.png)](https://postimg.cc/LnVG0NtG)
 
+
+
 [![image.png](https://i.postimg.cc/xdZSrFDS/image.png)](https://postimg.cc/R3wYKdZP)
 
+Un circuito en paralelo es un circuito que tiene dos o más caminos independientes desde la fuente de tensión, pasando a través de elementos del circuito hasta regresar nuevamente a la fuente. En este tipo de circuito dos o más elementos están conectados entre el mismo par de nodos.
 
-Resistores en serie 
+4. RESOLUCION DE EJERCICIOS
+
 1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B. 
  
  [![imagen-2022-11-27-122100849.png](https://i.postimg.cc/hPLxfLhx/imagen-2022-11-27-122100849.png)](https://postimg.cc/QHMVzWQx)
@@ -406,3 +410,13 @@ R8 abierto: R = 1.0 MÆ71.8 MÆ7680 k Ω, = 330 k Ω,
 (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
 ![image](https://user-images.githubusercontent.com/116777536/204151948-e77e4cc7-b351-433a-99aa-2999556a622c.png)
+
+5 VIDEO. 
+
+
+
+6. CONCLUSIONES
+
+En este último informe de tarea, vimos lo que es los circuitos en serie y los circuitos en paralelo. Comprendimos cómo funciona tanto la resistencia, la corriente y el voltaje en estos circuitos y las fórmulas que debemos aplicar para poder solucionar un sistema. De igual manera retomamos temas anteriores, como es las leyes de Kirchhoff y de Ohm; estas se reflejaron es estos nuevos capítulos, enseñandonos como pueden ser utilizadas también para los circuitos. También completamos los ejercicos de ambos capítulos, para poder tener una mejor comprensión de los temas, utilizando lo enseñado en este informe. Logramos diferencias los atributos de los circuitos y cómo cada uno posee su propia modalidad.
+
+7. BIBLIOGRAFÍA
