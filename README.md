@@ -110,7 +110,7 @@ Posición D: 36.3 mA
 
 (c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
 
-Nor
+No
 
 27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total? 
 
