@@ -421,3 +421,9 @@ R8 abierto: R = 1.0 MÆ71.8 MÆ7680 k Ω, = 330 k Ω,
 En este último informe de tarea, vimos lo que es los circuitos en serie y los circuitos en paralelo. Comprendimos cómo funciona tanto la resistencia, la corriente y el voltaje en estos circuitos y las fórmulas que debemos aplicar para poder solucionar un sistema. De igual manera retomamos temas anteriores, como es las leyes de Kirchhoff y de Ohm; estas se reflejaron es estos nuevos capítulos, enseñandonos como pueden ser utilizadas también para los circuitos. También completamos los ejercicos de ambos capítulos, para poder tener una mejor comprensión de los temas, utilizando lo enseñado en este informe. Logramos diferencias los atributos de los circuitos y cómo cada uno posee su propia modalidad.
 
 7. BIBLIOGRAFÍA
+
+Etecé. (5 de Agosto de 2021). concepto. Obtenido de https://concepto.de/circuito-en-serie/
+
+McAllister, W. (3 de Septiembre de 2020). Khan Academy. Obtenido de https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+Nat, S. (23 de Julio de 2012). EcuRed. Obtenido de https://www.ecured.cu/Circuito_en_paralelo
